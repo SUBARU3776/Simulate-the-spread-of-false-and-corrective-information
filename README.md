@@ -1,1 +1,1 @@
-# Simulate-the-spread-of-false-and-corrective-information
+# 偽情報と修正情報の拡散をシミュレート
